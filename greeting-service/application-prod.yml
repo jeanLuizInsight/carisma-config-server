@@ -9,4 +9,4 @@ management:
         - '*'
 greeting-service:
   greeting: "Tere"
-  default-value: "Maailm"
+  default-value: "Maailm test"
